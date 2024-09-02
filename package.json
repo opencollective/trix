@@ -1,7 +1,7 @@
 {
-  "name": "trix",
+  "name": "@opencollective/trix",
   "version": "2.1.5",
-  "description": "A rich text editor for everyday writing",
+  "description": "A Trix fork for Open Collective",
   "main": "dist/trix.umd.min.js",
   "module": "dist/trix.esm.min.js",
   "style": "dist/trix.css",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basecamp/trix.git"
+    "url": "git+https://github.com/opencollective/trix.git"
   },
   "keywords": [
     "rich text",
@@ -23,7 +23,7 @@
   "author": "37signals, LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/basecamp/trix/issues"
+    "url": "https://github.com/opencollective/trix/issues"
   },
   "homepage": "https://trix-editor.org/",
   "devDependencies": {
